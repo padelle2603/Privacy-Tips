@@ -41,7 +41,7 @@ An open-source service that creates email aliases to protect your privacy and re
 ### 🕑 Temporary Emails
 Temporary email services work similarly to aliases but are active only for a short session and don’t forward messages to your inbox.
 
-📌 Try **[TempGmail](https://www.emailnator.com/)** — works on most sites thanks to Gmail compatibility.
+📌 Try **[SmailPro](https://smailpro.com/temporary-email)** — works on most sites thanks to Gmail compatibility.
 
 ---
 ## 💻 Windows (and Linux)
