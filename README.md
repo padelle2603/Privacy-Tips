@@ -29,7 +29,7 @@ Let me show you a solid alternative:
 Ever wanted to sign up on a sketchy or poorly protected website?  
 **Email aliasing** can help!
 
-##### What is Email Aliasing?
+#### What is Email Aliasing?
 An email alias is a forwarding address that hides your real email. Anything sent to the alias is forwarded to your actual inbox.  
 ⚠️ Note: This doesn’t protect you if you're doing anything illegal.
 
@@ -102,7 +102,7 @@ If you own a **Google Pixel**, you can install a full **[open-source OS](https:/
 Want better security without memorizing complex passwords?  
 	Use a password manager like **[Bitwarden](https://bitwarden.com/)**!
 
-##### What’s Bitwarden?
+#### What’s Bitwarden?
 A freemium, open-source password manager that stores your credentials in an encrypted vault.  
 It helps you:
 - Generate secure passwords
@@ -120,7 +120,7 @@ Add an extra layer of security to your accounts with an **authenticator app**.
 Avoid Chrome and Edge — they track you!  
 Switch to **[Firefox](https://github.com/mozilla-firefox/firefox)** or **[Librewolf](https://librewolf.net/)** for better privacy.
 
-##### 🔧 Browser Settings
+#### 🔧 Browser Settings
 - Enable HTTPS-only mode
 - Set "Maximum Protection"
 - Use DNS like Cloudflare’s (1.1.1.1)
@@ -140,7 +140,7 @@ Most engines track you — check out this [comparison table](https://searchengin
 ## 🧲 Torrenting & VPNs
 When torrenting, your IP is visible to others — this can be risky.
 
-##### 🧰 What to do:
+#### 🧰 What to do:
 1. Use an open-source torrent client like **[qBittorrent](https://www.qbittorrent.org/)**
 2. Use a **No-Log VPN** (i.e., one that doesn’t store your activity)
 
