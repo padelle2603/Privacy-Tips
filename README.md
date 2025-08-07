@@ -154,7 +154,8 @@ Use this [VPN comparison](https://techlore.tech/vpn/) to find a trustworthy serv
 ---
 
 ## 🐦 X / Twitter
-If you want to keep yourself away from old Twitter which requires you to have Cookie enabled while visiting and an account too
+If you want to keep yourself away from old Twitter which requires you to have Cookie enabled while visiting and an account too,
+
 I suggest using **[xcancel](https://xcancel.com/)**!
 
 It makes you access Tweets and Users page without any tracking and account.
