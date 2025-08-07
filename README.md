@@ -53,7 +53,7 @@ Switching to **Linux** is a great option — it’s privacy-respecting, lightwei
 If you're staying on Windows, here’s how to minimize tracking:
 
 #### 🚫 Disable Tracking Features:
-- [Turn off Windows Recall](https://geekchamp.com/how-to-completely-disable-or-uninstall-recall-in-windows-11-24h2/)
+- [Turn off Windows Recall](https://support.microsoft.com/en-us/windows/privacy-and-control-over-your-recall-experience-d404f672-7647-41e5-886c-a3c59680af15)
 - [Disable Telemetry](https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89) (sends diagnostics and screenshots to Microsoft)
 
 >This also boosts performance.
