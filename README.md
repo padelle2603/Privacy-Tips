@@ -89,7 +89,7 @@ Another tricky one. Start by turning off all telemetry: go to your settings and 
 Phones come with tons of unnecessary (often hidden) apps.  
 Use **[ADB](https://github.com/0x192/universal-android-debloater?tab=readme-ov-file#how-to-use-it)** and the **[Universal Android Debloater](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/)**.
 
-⚠️ Be sure to use a **debloat list** to avoid removing critical apps!
+⚠️ Be sure to use a **debloat list** to uninstall system data collection and flagged spyware apps and avoid removing critical apps!
 
 ### 🏅 Honorable Mention
 If you own a **Google Pixel**, you can install a full **[open-source OS](https://youtu.be/u_Lxkt50xOg?t=306)**.
