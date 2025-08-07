@@ -118,7 +118,7 @@ Add an extra layer of security to your accounts with an **authenticator app**.
 ---
 ## 🌐 Browsers & Search Engines
 Avoid Chrome and Edge — they track you!  
-Switch to **Firefox** or **Librewolf** for better privacy.
+Switch to **[Firefox](https://github.com/mozilla-firefox/firefox)** or **[Librewolf](https://librewolf.net/)** for better privacy.
 
 ##### 🔧 Browser Settings
 - Enable HTTPS-only mode
