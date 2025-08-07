@@ -43,6 +43,9 @@ Temporary email services work similarly to aliases but are active only for a sho
 
 📌 Try **[SmailPro](https://smailpro.com/temporary-email)** — works on most sites thanks to Gmail compatibility.
 
+### 💀 Temporary Emails
+If you are receiving tons of phishing emails you have been probably pwned, here's how to know it: **[HaveIBeenPwned](https://haveibeenpwned.com/)**
+
 ---
 ## 💻 Windows (and Linux)
 
