@@ -153,6 +153,14 @@ Use this [VPN comparison](https://techlore.tech/vpn/) to find a trustworthy serv
 
 ---
 
+## 🧲 X / Twitter
+If you want to keep yourself away from old Twitter which requires you to have Cookie enabled while visiting and an account too
+I suggest using **[xcancel](https://xcancel.com/)**!
+
+It makes you access Tweets and Users page without any tracking and account.
+
+---
+
 ## 📘 Glossary
 
 |Term|Definition|
@@ -170,5 +178,6 @@ Use this [VPN comparison](https://techlore.tech/vpn/) to find a trustworthy serv
 ---
 ## 📚 Sources
 
-Main source: **[FMHY](https://fmhy.net)** — a reliable, community-maintained forum for privacy-respecting and open-source tools.  
+Main source: **[FMHY](https://fmhy.net) / [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/)** — a reliable, community-maintained forum for privacy-respecting and open-source tools.  
 Highly recommended for any future questions or tools you need!
+Additional sources: [r/privacy](https://www.reddit.com/r/privacy/), [r/VPN](https://www.reddit.com/r/VPN/), 
