@@ -72,7 +72,7 @@ Use tools like:
 
 ### 🪦 Windows 10
 Support is ending soon…  
-[Coff coff](https://massgrave.dev/windows10_eol)  
+[Cough cough](https://massgrave.dev/windows10_eol)  
 Or, you know — **just switch to Linux!**
 
 ### 🆕 Windows 11
