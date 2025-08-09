@@ -11,6 +11,7 @@ Probabilmente usi Gmail o Outlook per la tua email, giusto?
 Questi servizi sono comodi e offrono autenticazione rapida per molte piattaforme (soprattutto i servizi Google), ma sono anche noti per raccogliere dati a scopo commerciale.
 
 Ecco una solida alternativa:
+
 👉 **[Proton](https://proton.me/)**
 
 ##### Cos’è Proton?
@@ -32,6 +33,7 @@ Ecco una solida alternativa:
 ### ✨ Alias Email
 
 Vuoi registrarti su un sito sospetto o poco sicuro?
+
 **L’alias email** può aiutarti!
 
 #### Cos’è un Alias Email?
@@ -43,6 +45,7 @@ Tutto ciò che viene inviato all’alias viene reindirizzato alla tua casella di
 📌 Prova **[SimpleLogin](https://simplelogin.io/)** — si integra perfettamente con Proton Mail!
 
 **Cos’è SimpleLogin?**
+
 Un servizio open-source che crea alias email per proteggere la tua privacy e ridurre il rischio di spam e phishing.
 
 ### 🕑 Email Temporanee
@@ -54,6 +57,7 @@ Funzionano in modo simile agli alias, ma sono attive solo per una sessione breve
 ### 💀 Sei stato pwned!
 
 Se ricevi molte email di phishing, probabilmente sei stato compromesso.
+
 Puoi verificarlo qui: **[HaveIBeenPwned](https://haveibeenpwned.com/)**
 
 ---
@@ -61,6 +65,7 @@ Puoi verificarlo qui: **[HaveIBeenPwned](https://haveibeenpwned.com/)**
 ## 💻 Windows (e Linux)
 
 Ammettiamolo: Windows raccoglie molti dati.
+
 Passare a **Linux** è un’ottima scelta — rispetta la privacy, è leggero, open-source e altamente personalizzabile.
 
 ### 🔄 Non sei pronto a cambiare?
@@ -87,6 +92,7 @@ Usa strumenti come:
 ### 🪦 Windows 10
 
 Il supporto sta per finire…
+
 [Coff coff](https://massgrave.dev/windows10_eol)
 
 Oppure… **passa direttamente a Linux!**
@@ -127,13 +133,14 @@ Se possiedi un **Google Pixel**, puoi installare un **[sistema operativo open-so
 ### Gestione Password
 
 Vuoi più sicurezza senza dover ricordare password complesse?
+
 Usa un password manager come **[Bitwarden](https://bitwarden.com/)**!
 
 #### Cos’è Bitwarden?
 
 Un password manager open-source freemium che archivia le tue credenziali in un vault criptato.
-Ti aiuta a:
 
+Ti aiuta a:
 * Generare password sicure
 * Compilare automaticamente i form di login
 * Sincronizzare su più dispositivi
@@ -150,10 +157,10 @@ Aggiungi un ulteriore livello di sicurezza con un’app autenticatrice.
 ## 🌐 Browser & Motori di Ricerca
 
 Evita Chrome e Edge — ti tracciano!
+
 Passa a **[Firefox](https://github.com/mozilla-firefox/firefox)** o **[Librewolf](https://librewolf.net/)** per maggiore privacy.
 
 #### 🔧 Impostazioni del Browser
-
 * Abilita modalità solo HTTPS
 * Imposta "Protezione Massima"
 * Usa DNS come Cloudflare (1.1.1.1)
@@ -176,7 +183,6 @@ Molti motori ti tracciano — consulta questa [tabella comparativa](https://sear
 Quando usi torrent, il tuo IP è visibile agli altri — rischioso.
 
 #### 🧰 Cosa fare:
-
 1. Usa un client torrent open-source come **[qBittorrent](https://www.qbittorrent.org/)**
 2. Usa una **VPN No-Log** (che non registra la tua attività)
 
@@ -218,6 +224,7 @@ Ti permette di accedere ai tweet e alle pagine degli utenti senza tracciamento e
 ## 📚 Fonti
 
 Fonte principale: **[FMHY](https://fmhy.net) / [r/FREEMEDIAHECKYEAH](https://www.reddit.com/r/FREEMEDIAHECKYEAH/)** — forum affidabile, mantenuto dalla community, per strumenti open-source e rispettosi della privacy.
+
 Altamente consigliato per domande future o ricerca di nuovi strumenti!
 
 Altre fonti: [r/privacy](https://www.reddit.com/r/privacy/), [r/VPN](https://www.reddit.com/r/VPN/)
