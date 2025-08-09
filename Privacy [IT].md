@@ -88,6 +88,7 @@ Usa strumenti come:
 
 Il supporto sta per finire…
 [Coff coff](https://massgrave.dev/windows10_eol)
+
 Oppure… **passa direttamente a Linux!**
 
 ### 🆕 Windows 11
@@ -105,6 +106,7 @@ Segui gli stessi passaggi sopra per aumentare la privacy.
 ## 📱 Android
 
 Altro caso complicato.
+
 Inizia disattivando tutta la telemetria: vai nelle impostazioni e cerca le opzioni di condivisione dati.
 
 ### 🧼 Rimuovere App Inutili (Debloat)
