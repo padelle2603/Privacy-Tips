@@ -159,7 +159,6 @@ Passa a **[Firefox](https://github.com/mozilla-firefox/firefox)** o **[Librewolf
 * Usa DNS come Cloudflare (1.1.1.1)
 * Disabilita la telemetria per più privacy
 * Installa estensioni per la privacy come:
-
   * [uBlock Origin](https://ublockorigin.com)
   * [Privacy Badger](https://privacybadger.org)
   * [LocalCDN](https://codeberg.org/nobody/LocalCDN)
