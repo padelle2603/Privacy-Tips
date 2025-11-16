@@ -70,16 +70,7 @@ Use tools like:
 
 > ⚠️ These aren’t strictly privacy-related, but they boost performance and reduce bloatware.
 
-### 🪦 Windows 10
-Support is ending soon…  
-[Cough cough](https://massgrave.dev/windows10_eol)  
-Or, you know — **just switch to Linux!**
-
-### 🆕 Windows 11
-Follow the same steps as above to enhance your privacy.
-
 #### 🛠️ Useful Scripts
-- **[Microsoft Activation Script](https://github.com/massgravel/Microsoft-Activation-Scripts)**
 - **[Edge Remover Script](https://github.com/he3als/EdgeRemover)**  
     After using it, go to `Disk/Program Files (x86)/Microsoft/EdgeUpdate`, take ownership of the folder and revoke all permissions except for your user.
 
