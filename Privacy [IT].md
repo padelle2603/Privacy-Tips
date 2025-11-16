@@ -89,21 +89,8 @@ Usa strumenti come:
 
 > ⚠️ Non strettamente legati alla privacy, ma migliorano le prestazioni e riducono i programmi inutili.
 
-### 🪦 Windows 10
-
-Il supporto sta per finire…
-
-[Coff coff](https://massgrave.dev/windows10_eol)
-
-Oppure… **passa direttamente a Linux!**
-
-### 🆕 Windows 11
-
-Segui gli stessi passaggi sopra per aumentare la privacy.
-
 #### 🛠️ Script Utili
 
-* **[Microsoft Activation Script](https://github.com/massgravel/Microsoft-Activation-Scripts)**
 * **[Edge Remover Script](https://github.com/he3als/EdgeRemover)**
   Dopo averlo usato, vai su `Disk/Program Files (x86)/Microsoft/EdgeUpdate`, prendi possesso della cartella e rimuovi tutte le autorizzazioni tranne quelle per il tuo utente.
 
